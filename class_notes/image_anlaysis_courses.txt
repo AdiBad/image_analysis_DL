@@ -1,0 +1,6 @@
+Image analysis lectures:
+
+1. BIOIMAGING and related information (can already watch): https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=56be4e51-51dd-43a3-a7c4-ae3900a9b068
+2. course for pytorch tool and ML for segn data (need to pay 15EUR): https://www.udemy.com/course/deep-learning-with-pytorch-for-medical-image-analysis/
+3. Course material from Cambridge Univ for bioimage analysis (can already clone): https://github.com/RMS-DAIM/Python-for-Bioimage-Analysis/tree/master
+4. Biomedical image analysis in Python (can already watch): https://campus.datacamp.com/courses/biomedical-image-analysis-in-python/exploration?ex=1
